@@ -53,8 +53,6 @@ Compila el proyecto utilizando Maven:
 mvn clean install
 mvn clean compile
 
-javac WebScraper.java
-
 Luego, ejecuta la aplicación con el siguiente comando para correr el programa:
 
 mvn exec:java
