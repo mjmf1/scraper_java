@@ -9,5 +9,8 @@
         <module name="SeleniumTest" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="scrap" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
